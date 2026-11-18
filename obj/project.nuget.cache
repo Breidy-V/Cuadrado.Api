@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptEWm9WbOvI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lion tech\\Desktop\\Segundo Semestre\\Programacion 4\\Tarea_1\\Cuadrado.Api\\Cuadrado.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lion tech\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\lion tech\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
